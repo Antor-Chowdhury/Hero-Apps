@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://i.ibb.co.com/0pdQ5QTZ/1.png",
+    "title": "WellnessPro",
+    "companyName": "WellnessCore Ltd.",
+    "id": 1,
+    "description": "WellnessPro takes a holistic approach to health and fitness. It offers custom workout plans, nutrition tracking, and real-time coaching using your device’s sensors and AI analysis. Users can track progress, set goals, and receive daily motivation to stay consistent. Integration with wearables ensures every step, heartbeat, and calorie is accurately monitored, helping users build lasting healthy habits.",
+    "size": 75,
+    "reviews": 8421,
+    "ratingAvg": 4.2,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 3721 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/8LfTTjrY/2.png",
+    "title": "PocketLedger",
+    "companyName": "Finovate Labs",
+    "id": 2,
+    "description": "PocketLedger makes personal finance simple and engaging. Users can track spending, set savings goals, and receive AI insights on where to save or invest. Detailed charts and alerts help maintain control of budgets and encourage smarter money decisions, making financial wellness achievable for individuals and families alike.",
+    "size": 62,
+    "reviews": 10234,
+    "ratingAvg": 4.6,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 154 },
+      { "name": "2 star", "count": 280 },
+      { "name": "3 star", "count": 1900 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/cSZC48md/3.png",
+    "title": "LinguaBoost",
+    "companyName": "PolyLingua Co.",
+    "id": 3,
+    "description": "LinguaBoost gamifies language learning using daily exercises, voice recognition, and AI feedback. Users can practice speaking, writing, and comprehension with challenges tailored to their skill level, making language mastery fun and efficient. Progress tracking and milestone rewards keep learners motivated on their path to fluency.",
+    "size": 89,
+    "reviews": 19453,
+    "ratingAvg": 4.7,
+    "downloads": 2500000,
+    "ratings": [
+      { "name": "1 star", "count": 153 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 13500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/rGhMqktm/4.png",
+    "title": "WanderMate",
+    "companyName": "GlobeTrackers Inc.",
+    "id": 4,
+    "description": "WanderMate is the ultimate travel companion. Users can plan trips with curated itineraries, route optimizations, local tips, and weather updates. Expense trackers and travel journals ensure organized, stress-free adventures for solo travelers, couples, and groups.",
+    "size": 105,
+    "reviews": 13121,
+    "ratingAvg": 4.3,
+    "downloads": 1700000,
+    "ratings": [
+      { "name": "1 star", "count": 221 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1700 },
+      { "name": "4 star", "count": 3600 },
+      { "name": "5 star", "count": 7200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/N6pkDyWW/5.png",
+    "title": "SmartHive",
+    "companyName": "IoTVerse Labs",
+    "id": 5,
+    "description": "SmartHive centralizes control of smart home devices. Users can automate lighting, security, and climate systems with ease, using AI routines and voice commands. The app also offers energy usage insights and device health monitoring, providing a seamless smart living experience.",
+    "size": 88,
+    "reviews": 7621,
+    "ratingAvg": 4.4,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 171 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 3400 }
+    ]
+  },
+  {
+  "image": "https://i.ibb.co.com/hJcchczp/6.png",
+  "title": "ProjectPulse",
+  "companyName": "CollabTech Solutions",
+  "id": 6,
+  "description": "ProjectPulse is a comprehensive productivity hub for teams. It integrates task management, real-time chat, file collaboration, and AI-powered task prioritization. Users can monitor project timelines, track team progress, and generate performance reports, ensuring projects stay on schedule and teams remain aligned.",
+  "size": 72,
+  "reviews": 10875,
+  "ratingAvg": 4.6,
+  "downloads": 1180000,
+  "ratings": [
+    { "name": "1 star", "count": 200 },
+    { "name": "2 star", "count": 480 },
+    { "name": "3 star", "count": 1150 },
+    { "name": "4 star", "count": 3800 },
+    { "name": "5 star", "count": 5345 }
+  ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Z6ssqWvV/7.png",
+    "title": "Happenings",
+    "companyName": "UrbanVibe Media",
+    "id": 7,
+    "description": "Happenings helps users discover concerts, meetups, and festivals nearby. Personalized recommendations, calendar integration, and ticket alerts ensure users never miss local experiences and social events.",
+    "size": 58,
+    "reviews": 5123,
+    "ratingAvg": 4.1,
+    "downloads": 700000,
+    "ratings": [
+      { "name": "1 star", "count": 173 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1900 },
+      { "name": "5 star", "count": 2100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/5XXSKY6k/8.png",
+    "title": "CalmNest",
+    "companyName": "Serenity Apps",
+    "id": 8,
+    "description": "CalmNest provides guided meditation, breathing exercises, and soundscapes to reduce stress and increase mindfulness. Users can track mood, set daily reminders, and build healthy habits with calming techniques suitable for busy lifestyles.",
+    "size": 65,
+    "reviews": 9321,
+    "ratingAvg": 4.8,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 71 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 7100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/YFxvvjKQ/9.png",
+    "title": "NutriPlan",
+    "companyName": "NutriAI Ltd.",
+    "id": 9,
+    "description": "NutriPlan generates personalized meal plans based on health goals, dietary preferences, and activity levels. Users get shopping lists, nutrition insights, and AI suggestions to stay consistent and healthy.",
+    "size": 79,
+    "reviews": 10311,
+    "ratingAvg": 4.5,
+    "downloads": 980000,
+    "ratings": [
+      { "name": "1 star", "count": 111 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 5300 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Kxv78Fw9/10.png",
+    "title": "PlantPal",
+    "companyName": "GreenPulse",
+    "id": 10,
+    "description": "PlantPal helps plant enthusiasts care for their plants. AI image recognition diagnoses problems, schedules watering, and tracks growth progress, ensuring plants thrive in any environment.",
+    "size": 54,
+    "reviews": 6532,
+    "ratingAvg": 4.3,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 132 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 2800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/dSFhsK5/11.png",
+    "title": "SkillForge",
+    "companyName": "EduVerse",
+    "id": 11,
+    "description": "SkillForge delivers micro-courses and AI-guided learning paths. Users can improve professional skills with interactive challenges, progress tracking, and personalized recommendations for faster skill mastery.",
+    "size": 96,
+    "reviews": 12022,
+    "ratingAvg": 4.6,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 222 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 3300 },
+      { "name": "5 star", "count": 7000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/23JMSRQJ/12.png",
+    "title": "EcoFootprint",
+    "companyName": "PlanetCare",
+    "id": 12,
+    "description": "EcoFootprint tracks daily carbon emissions from food, travel, and lifestyle. Users can participate in eco-challenges, set sustainability goals, and monitor their progress toward greener living.",
+    "size": 57,
+    "reviews": 4821,
+    "ratingAvg": 4.1,
+    "downloads": 520000,
+    "ratings": [
+      { "name": "1 star", "count": 121 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 2100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/xSCVWvwP/13.png",
+    "title": "Creativa",
+    "companyName": "ArtSpace Labs",
+    "id": 13,
+    "description": "Creativa connects digital creators to share art, music, and designs. AI prompts and community feedback enhance creativity and skill-building for artists of all levels.",
+    "size": 84,
+    "reviews": 5633,
+    "ratingAvg": 4.3,
+    "downloads": 800000,
+    "ratings": [
+      { "name": "1 star", "count": 133 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 2600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/spP8wStw/14.jpg",
+    "title": "PetCare Pro",
+    "companyName": "PawWorks Ltd.",
+    "id": 14,
+    "description": "PetCare Pro manages pet health records, vet appointments, and daily activity logs. Users can track multiple pets, receive care reminders, and monitor overall pet wellness with ease.",
+    "size": 66,
+    "reviews": 7122,
+    "ratingAvg": 4.5,
+    "downloads": 880000,
+    "ratings": [
+      { "name": "1 star", "count": 122 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 3800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/q3LKwn4h/15.png",
+    "title": "SafePath",
+    "companyName": "UrbanSense AI",
+    "id": 15,
+    "description": "SafePath guides users through safe routes using AI to analyze lighting, traffic, and crowd data. It provides alerts, real-time updates, and recommendations for secure navigation in urban environments.",
+    "size": 59,
+    "reviews": 6023,
+    "ratingAvg": 4.0,
+    "downloads": 640000,
+    "ratings": [
+      { "name": "1 star", "count": 223 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 1900 },
+      { "name": "5 star", "count": 2400 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/WpzgSs9Y/16.png",
+    "title": "QuickNotes",
+    "companyName": "MindFlex Apps",
+    "id": 16,
+    "description": "QuickNotes allows instant note-taking with voice recognition, smart categorization, and offline sync. Users can organize tasks, set reminders, and capture ideas quickly for personal or professional use.",
+    "size": 42,
+    "reviews": 9733,
+    "ratingAvg": 4.6,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 133 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 5800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/23wFdbLW/17.png",
+    "title": "EduCompanion",
+    "companyName": "LearnPro Tech",
+    "id": 17,
+    "description": "EduCompanion offers interactive flashcards, AI tutors, and adaptive quizzes. Users can learn at their own pace, monitor progress, and receive tailored recommendations to improve study efficiency.",
+    "size": 71,
+    "reviews": 10532,
+    "ratingAvg": 4.7,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 132 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 7200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/LzW6VDrH/18.png",
+    "title": "SleepAid",
+    "companyName": "CalmWorks Ltd.",
+    "id": 18,
+    "description": "SleepAid improves sleep quality using ambient sounds, guided breathing, and wearable-tracked sleep analysis. Users can set routines, track patterns, and create personalized plans for better rest.",
+    "size": 83,
+    "reviews": 9544,
+    "ratingAvg": 4.5,
+    "downloads": 1100000,
+    "ratings": [
+      { "name": "1 star", "count": 144 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 5200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/XZvHMkGD/19.png",
+    "title": "FocusMate",
+    "companyName": "ZenLab Studio",
+    "id": 19,
+    "description": "FocusMate applies the Pomodoro technique to modern workflows. Users can create work intervals, track sessions, review analytics, and use optional ambient sounds for a distraction-free focus experience.",
+    "size": 68,
+    "reviews": 8321,
+    "ratingAvg": 4.4,
+    "downloads": 970000,
+    "ratings": [
+      { "name": "1 star", "count": 271 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 4000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/JRc17JBd/20.png",
+    "title": "MindTracker",
+    "companyName": "NeuroApps",
+    "id": 20,
+    "description": "MindTracker helps users monitor mental health by tracking mood, journaling thoughts, and suggesting guided exercises. AI-driven insights provide personalized recommendations to improve focus, calmness, and emotional well-being over time.",
+    "size": 77,
+    "reviews": 7120,
+    "ratingAvg": 4.6,
+    "downloads": 850000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 3800 }
+    ]
+  }
+]
