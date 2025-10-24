@@ -8,7 +8,7 @@ function App() {
     <>
       <div className="bg-[#f5f5f5]">
         <Navbar></Navbar>
-        <main>
+        <main className="flex-1">
           <Outlet></Outlet>
         </main>
         <Footer></Footer>

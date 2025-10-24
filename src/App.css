@@ -24,3 +24,11 @@ body {
   background-clip: text;
   color: transparent;
 }
+
+.dark {
+  color: #001931;
+}
+
+.gray {
+  color: #627382;
+}
