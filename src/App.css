@@ -6,3 +6,21 @@
 body {
   font-family: "Inter", sans-serif;
 }
+
+.nav-link {
+  cursor: pointer;
+}
+
+.nav-link:hover,
+.active {
+  background: linear-gradient(to right, #632ee3, #9f62f2);
+  background-clip: text;
+  color: transparent;
+  font-weight: 600;
+}
+
+.gradient-text {
+  background: linear-gradient(to right, #632ee3, #9f62f2);
+  background-clip: text;
+  color: transparent;
+}
